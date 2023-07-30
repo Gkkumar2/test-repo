@@ -1,2 +1,2 @@
-# test-repo
-this is the second update to the file
+# MY VERY FIRST REPO
+I'm currently learning Data science.
