@@ -1,3 +1,2 @@
 # test-repo
-
-this is a new repository
+this is the second update to the file
